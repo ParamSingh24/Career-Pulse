@@ -1,54 +1,82 @@
+# 🚀 BBD CareerPulse AI – Kalpathon 2025 Submission
 
-# BBD CareerPulse AI
+### 👥 Team Name: Tech Heros  
+### 🏫 University: Babu Banarasi Das University  
+### 🎯 Problem Statement: **Smart Resume Analyzer for Career Growth**
 
-## Overview
+> _“Users find it hard to know what skills or experience they’re missing for their dream roles.  
+> How can an AI system help users analyse their resume and suggest personalized improvements or learning paths?”_
 
-BBD CareerPulse is an AI-powered career acceleration platform I built for the Kalpathon 2025 hackathon. The application helps job seekers optimize their resumes, identify skill gaps, and find personalized learning resources to land their dream jobs faster.
+---
 
-## Key Features
+## 💡 Project Overview
 
-- **Resume Analysis**: AI-powered resume evaluation that identifies strengths and improvement areas
-- **Skills Gap Analysis**: Visual comparison of your skills against job market requirements
-- **Personalized Learning Recommendations**: Curated courses and resources based on your skill gaps
-- **Career Insights**: Industry trends and statistics to guide your job search
+**BBD CareerPulse** is an AI-powered career acceleration platform designed to help students and job seekers:
 
-## Tech Stack
+- Get AI-simulated resume feedback
+- Detect missing skills for their target roles
+- Receive personalized upskilling suggestions
+- Understand current job market demands
 
-This project was built with:
-- React + TypeScript
-- Tailwind CSS for styling
-- shadcn/ui for UI components
-- lucide-react for icons
-- react-query for data fetching
+This project was built in 36 hours as part of **Kalpathon 2025**. Our goal is to empower users to not just apply for jobs — but become the best-fit candidates for them.
 
-## Future Improvements
+---
+## Hosted on Vercel http://bbdcareerpulse.vercel.app
 
-I'm planning to add:
-- User authentication
-- Resume version history
-- Job application tracking
-- AI-powered interview preparation
+## 🔑 Key Features
 
-## Local Development
+- 📄 **Resume Analysis**  
+  Simulated AI feedback highlights resume strengths & gaps
+
+- 📉 **Skills Gap Detection**  
+  Compares current skills with trending roles and technologies
+
+- 📚 **Personalized Learning Suggestions**  
+  Curated roadmaps and course links for upskilling
+
+- 📈 **Career Forecasting (Planned)**  
+  Job trend prediction based on market analysis
+
+- ✉️ **Smart Outreach (Planned)**  
+  Draft personalized emails to recruiters and hiring managers
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend        | Libraries / Tools              |
+|-----------------|--------------------------------|
+| React + TypeScript | Vite, Tailwind CSS, shadcn/ui |
+| Icons & UI Logic | lucide-react, react-query     |
+| Version Control  | Git, GitHub (Public Repo)     |
+
+---
+
+## 🧭 Roadmap
+
+### ✅ Current MVP
+- Resume upload & simulated feedback
+- Visual UI with skill gap display
+- Modular design for future backend integration
+
+### 🛠 Upcoming Features
+- 🔐 User Authentication
+- 📊 Resume Version History
+- 📨 Auto Email Outreach to HRs
+- 🤖 Real AI Integration (Gemini/OpenAI)
+- 🗂️ Job Application Tracking
+
+---
+
+## 🚀 Run Locally
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/bbd-careerpulse.git
-
-# Navigate to project directory
-cd bbd-careerpulse
+git clone https://github.com/ParamSingh24/Career-Pulse.git
+cd Career-Pulse
 
 # Install dependencies
 npm install
 
-# Start development server
+# Start the dev server
 npm run dev
-```
-
-## Contact
-
-Feel free to reach out if you have any questions or would like to collaborate!
-
-## Acknowledgements
-
-Built for the 2025 Kalpathon hackathon. Special thanks to the BBD team for their support and feedback during development.
