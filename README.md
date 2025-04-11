@@ -1,4 +1,4 @@
-# 🚀 BBD CareerPulse AI – Kalpathon 2025 Submission
+# 🧑🏼‍💻 BBD CareerPulse AI – Kalpathon 2025 Submission
 
 ### 👥 Team Name: Tech Heros  
 ### 🏫 University: Babu Banarasi Das University  
