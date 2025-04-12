@@ -14,7 +14,7 @@
 **BBD CareerPulse** is an AI-powered career acceleration platform designed to help students and job seekers:
 
 - Get AI-simulated resume feedback
-- Detect missing skills for their target roles
+- Detect missing skills for their target roles 
 - Receive personalized upskilling suggestions
 - Understand current job market demands
 
